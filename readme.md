@@ -1,10 +1,3 @@
 # Hey, I am Rishi Madan
-I am a highly skilled and experienced software engineer with a strong foundation in computer science. I am proficient in various programming languages, including Python, C++, C, Java, and JavaScript. I am familiar with several tools and technologies like Git, Linux, Windows, Scikit-Learn, and Keras. I'm a final-year undergraduate student.
-
-I have a proven track record of success in developing and implementing software solutions. I have worked on various projects, including developing a deep learning model for food quality evaluation, using NLP to classify emotions in Twitter data, and creating an object detection web app.
-
-I am also an active member of the computer science community. I have presented my work at conferences and published articles in academic journals. I am also a frequent contributor to open-source projects.
-
-I am confident in my ability to contribute to your team and help you achieve your goals. I am a highly motivated, results-oriented individual eager to learn and grow. I am also a team player who can work effectively in a fast-paced environment.
-
-I am passionate about using my skills to impact the world positively. I am eager to work on challenging and innovative projects that will help to solve real-world problems.
+Demonstrating proficiency in a variety of technical domains, I have utilized advanced programming languages such as Python, and Java to develop robust software solutions. Additionally, tools like Git for version control and SQL for database management have been extensively utilized in project environments. Furthermore, I possess a strong understanding of web development technologies such as CSS, and JavaScript, enabling me to create responsive and interactive web interfaces. Moreover, I have applied deep learning frameworks like TensorFlow and PyTorch in projects involving tasks such as image classification and natural language processing, showcasing my versatility across different domains within the field of computer science.
+Recognizing the evolving demands of the market, commitment to continuous learning and adaptation to new technologies is evident, with recent focus directed towards enhancing expertise in database analytics to align with industry needs.
